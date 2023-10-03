@@ -45,15 +45,18 @@ The project structure is organized as follows:
 ```bash
 levelup6-portfolio/
 ├── .gitignore          # Specifies Git ignored files and directories
-├── css/
-│   └── styles.css      # CSS file for styling the portfolio website
-├── images/
-│   └── profile.jpg     # Profile picture or other project images
-├── js/
-│   └── scripts.js      # JavaScript file for website interactivity
+├── assets
+│   ├── images
+│   │   ├── me.jpg      # Profile picture 
+│   │   └── socials     # Images for social media accounts
+│   │       ├── GitHub.svg
+│   │       ├── HTML.svg
+│   │       └── LinkedIn.svg
+│   └── style.css       # CSS file for styling the portfolio website
 ├── index.html          # Main HTML file for the portfolio website
 ├── LICENSE             # Licensing terms and conditions for the project
 └── README.md           # Project README providing an overview and instructions
+    
 
 ```
 
