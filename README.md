@@ -9,6 +9,7 @@ In this project, you will learn:
 - Basic HTML structure and tags.
 - Styling your portfolio using CSS.
 - Organizing and presenting your skills and projects.
+- Reimplementing styles with [💨 `TailwindCSS`](https://tailwindcss.com/).
 - Deploying your portfolio website using GitHub Pages.
 
 ## 🏁 Getting Started
@@ -21,7 +22,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/your-username/levelup6-portfolio.git
    ```
 
-2. Open the project directory in Visual Studio Code (VSCode). If you don't have VSCode installed, you can download it from [here](https://code.visualstudio.com/).
+2. Open the project directory in Visual Studio Code (VSCode). If you don't have VSCode installed, you can download it from [Here](https://code.visualstudio.com/).
 
 3. Install the Live Server extension for VSCode. You can do this by following these steps:
 
@@ -50,14 +51,11 @@ levelup6-portfolio/
 │   │   ├── me.jpg      # Profile picture 
 │   │   └── socials     # Images for social media accounts
 │   │       ├── GitHub.svg
-│   │       ├── HTML.svg
 │   │       └── LinkedIn.svg
 │   └── style.css       # CSS file for styling the portfolio website
 ├── index.html          # Main HTML file for the portfolio website
 ├── LICENSE             # Licensing terms and conditions for the project
 └── README.md           # Project README providing an overview and instructions
-    
-
 ```
 
 Feel free to modify and add files as needed to personalize your portfolio.
@@ -94,7 +92,7 @@ To deploy your portfolio website using GitHub Pages, follow these steps:
 
 6. Click "Save" to deploy your portfolio.
 
-Your portfolio will now be accessible at `https://your-username.github.io/levelup6-portfolio/`.
+Your portfolio will now be accessible at `https://your-username.github.io/quera-deploy-event-front/`.
 
 ## 📝 License
 
